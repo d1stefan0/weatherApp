@@ -1,2 +1,0 @@
-# weatherApp
-weather app
